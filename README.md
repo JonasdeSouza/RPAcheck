@@ -1,2 +1,2 @@
-# RPAcheck
+# RPACheck
 [//]: # (False)
